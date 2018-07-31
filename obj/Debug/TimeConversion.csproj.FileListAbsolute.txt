@@ -1,0 +1,4 @@
+Z:\Development\PI\TimeConversionCustDataRef\TimeConversion\bin\Debug\TimeConversion.dll
+Z:\Development\PI\TimeConversionCustDataRef\TimeConversion\bin\Debug\TimeConversion.pdb
+Z:\Development\PI\TimeConversionCustDataRef\TimeConversion\obj\Debug\TimeConversion.dll
+Z:\Development\PI\TimeConversionCustDataRef\TimeConversion\obj\Debug\TimeConversion.pdb

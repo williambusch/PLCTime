@@ -1,0 +1,23 @@
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\bin\Debug\PLCTime.dll
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\bin\Debug\PLCTime.pdb
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\obj\Debug\PLCTime.dll
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\obj\Debug\PLCTime.pdb
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\obj\Debug\PLCTime.PLCTimeForm.resources
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\obj\Debug\PLCTime.csproj.GenerateResource.Cache
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\obj\Debug\PLCTime.csprojResolveAssemblyReference.cache
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\v3\bin\Debug\PLCTime.dll
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\v3\bin\Debug\PLCTime.pdb
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\v3\obj\Debug\PLCTime.PLCTimeForm.resources
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\v3\obj\Debug\PLCTime.csproj.GenerateResource.Cache
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\v3\obj\Debug\PLCTime.dll
+Z:\Development\PI\PLCTimeCustDataRef\MasterCustDataRef\v3\obj\Debug\PLCTime.pdb
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\bin\Debug\PLCTime.dll
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\bin\Debug\PLCTime.pdb
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\obj\Debug\PLCTime.PLCTimeForm.resources
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\obj\Debug\PLCTime.csproj.GenerateResource.cache
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\obj\Debug\PLCTime.csproj.CoreCompileInputs.cache
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\obj\Debug\PLCTime.csproj.CopyComplete
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\obj\Debug\PLCTime.dll
+C:\Users\william.busch\Documents\_PI Classes\AF SDK Class\PLCTime CustDataRef v3\obj\Debug\PLCTime.pdb
